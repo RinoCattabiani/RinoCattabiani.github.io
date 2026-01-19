@@ -2,7 +2,7 @@
 
 ## [Resume](assets/Resume_JMazzola.pdf) | [Email](mailto:rino.cattabiani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rcattabiani/)
 
-#### Programming and Statistical Software: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace, OLS, Linear Regression, Classification, Random Forest
+#### Programming and Statistical Software: Python, R, STATA, MATLAB
 #### Development Tools: Git/Github, LaTeX, vsCode, Jupyter Notebook, Google Colab, Microsoft Suite
 #### Machine Learning: Linear/Nonlinear Regression, Classification, Neural Networks 
 
