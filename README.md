@@ -2,7 +2,9 @@
 
 ## [Resume](assets/Resume_JMazzola.pdf) | [Email](mailto:rino.cattabiani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rcattabiani/)
 
-#### Technical Skills: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace
+#### Programming and Statistical Software: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace, OLS, Linear Regression, Classification, Random Forest
+#### Development Tools: Git/Github, LaTeX, vsCode, Jupyter Notebook, Google Colab, Microsoft Suite
+#### Machine Learning: Linear/Nonlinear Regression, Classification, Neural Networks 
 
 ## About Me
 
