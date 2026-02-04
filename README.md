@@ -4,7 +4,7 @@
 
 #### **Languages:** Python, R, STATA, MATLAB
 #### **Tools/Technologies:** Git/GitHub, LaTeX, SQL, Microsoft Suite 
-#### **Quantitative Methods:** Linear/Logistic Regression, Tree-based models, k-Nearest Neighbors, Neural Networks, Dimensionality Reduction 
+#### **Quantitative Methods:** Linear/Logistic Regression, Tree-Based Models, k-Nearest Neighbors, Neural Networks, Dimensionality Reduction 
 
 ## About Me
 
