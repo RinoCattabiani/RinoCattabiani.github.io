@@ -29,16 +29,18 @@ B.S. Economics, minor in Philosophy
 
 
 #### Related Coursework: 
-- Convex Optimization and Machine Learning
-- Introduction to Statistical Learning
-- Elementary Economic Forecasting
-- Applied Linear Regression in Data Science
-- Financial Econometrics
-- Data Ethics
-- Econometrics II
-- Statistical Programming
+- Behavioral Economics 
+- Mathematical Economics 
+- Applied Econometrics I & II
+- Financial Econometrics 
+- Panel Data Econometrics 
+- Machine Learning
+- Convex Optimization 
+- Data Science
+- Deep Learning
 - Linear Algebra
-- Mathematical Economics
+- Probability Theory
+- Differential Equations 
 
 #### Awards:
 - Dean’s List: Spring 2024, Fall 2023, Spring 2023, Fall 2022
