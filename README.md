@@ -21,7 +21,7 @@ Here are some books I enjoyed reading that have a mathematical/statistical bent:
 - The Elements of Statistical Learning by Hastie et al.
 - What is Randomness by Beltrami
 
-Here are some that lean towards philosophical:
+Here are some that are philosophically leaning:
 - Proofs and Refutations by Lakatos
 - Why does Math work if it's not real? by Radulovic
 - Philosophy of Mathematics, selected readings by Benacerraf and Putnam
