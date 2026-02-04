@@ -12,6 +12,16 @@ My key areas of interest (relative to this degree) are in statistical learning, 
 
 Outside of this degree, I have academic interests in, broadly speaking, applied mathematics, philosophy of mathematics, foundations of mathematics, logic, rogue waves, and data visualization.  More loosely, I practice sleight of hand with magic cards, calisthenics, and play non-contact sports (tennis, pickleball, table tennis, and swimming). 
 
+Here are some books I enjoyed reading: 
+- Mathematics for Econometrics by Dhrymes
+- Statistical Modelling in R by Aitkin et al.
+- Business Data Science by Taddy
+- Computer Age Statistical Inference by Efron and Hastie
+- An Introduction to Statistical Learning by Hastie et al.
+- The Elements of Statistical Learning by Hastie et al.
+- What is Randomness by Beltrami
+- 
+
 ## Education
 **University of Connecticut, May 2025**
 
