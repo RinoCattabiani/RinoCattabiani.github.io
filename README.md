@@ -59,13 +59,11 @@ B.S. Economics, minor in Philosophy
 
 ## Data Science Projects
 
-#### [Tracking Depressive Symptom Rates in America](https://github.com/jcmazzola/depression_rates)
+#### [Retrieval-Augmented Generation System](https://github.com/RinoCattabiani/Retrieval-Augmented-Generation-RAG-for-Philosophy-of-Mathematics-literature)
 
-University of Connecticut - Data Science Capstone
+Developed a Retrieval-Augmented Generation system to analyze philosophical texts, comparing the effectiveness of various chunking strategies (fixed-size, sentence-based, semantic) and embedding models in retrieving relevant content. Implemented and evaluated multiple retrieval approaches to optimize context accuracy for complex philosophical queries. The project demonstrated how document preprocessing and embedding choices significantly impact RAG system performance in specialized academic domains.
 
-As part of my Spring 2025 capstone, I conducted an in-depth analysis of how reported depression symptoms varied across demographic groups in the United States. Using data from the CDC’s Household Pulse Survey, this project examined trends in adult depression rates from May 2020 to August 2024. The objective was to uncover disparities across age, sex, race, education, and geographic regions, providing insight into the social and economic toll of the COVID-19 pandemic. The analysis employed non-parametric statistical tests to assess significant differences in symptom reporting across subgroups.
-
-**Keywords:** age, education, ethnicity, mental health, pandemic, race, sex, state
+**Keywords:** natural language processing, embedding models, chunking strategies, vector databases, information retrieval, similarity search
 
 #### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
 
