@@ -26,6 +26,7 @@ Here are some that are philosophically leaning:
 - Why does Math work if it's not real? by Radulovic
 - Philosophy of Mathematics, selected readings by Benacerraf and Putnam
 - Philosophy of Mathematics, An Anthology by Jacquette
+- Lectures on the Philosophy of Mathematics by Hamkins
 - Reflections on Kurt Godel by Wang
 
 ## Education
