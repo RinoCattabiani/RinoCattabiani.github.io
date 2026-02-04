@@ -10,9 +10,9 @@
 
 My key areas of interest (relative to this degree) are in statistical learning, high-dimensional econometrics, nonparametric & semiparametric methods and causal inference. 
 
-Outside of this degree, I have academic interests in, broadly speaking, applied mathematics, philosophy of mathematics, foundations of mathematics, logic, rogue waves, and data visualization.  More loosely, I practice sleight of hand with magic cards, calisthenics, and play non-contact sports (tennis, pickleball, table tennis, and swimming). 
+Outside of this degree, I have academic interests in, broadly speaking, applied mathematics, philosophy of mathematics, foundations of mathematics, logic, rogue waves, and data visualization.  More loosely, I practice sleight of hand with magic cards, calisthenics, play non-contact sports (tennis, pickleball, table tennis, and swimming) and read books.
 
-Here are some books I enjoyed reading: 
+Here are some books I enjoyed reading that have a mathematical/statistical bent: 
 - Mathematics for Econometrics by Dhrymes
 - Statistical Modelling in R by Aitkin et al.
 - Business Data Science by Taddy
@@ -20,7 +20,13 @@ Here are some books I enjoyed reading:
 - An Introduction to Statistical Learning by Hastie et al.
 - The Elements of Statistical Learning by Hastie et al.
 - What is Randomness by Beltrami
-- 
+
+Here are some that lean towards philosophical:
+- Proofs and Refutations by Lakatos
+- Why does Math work if it's not real? by Radulovic
+- Philosophy of Mathematics, selected readings by Benacerraf and Putnam
+- Philosophy of Mathematics, An Anthology by Jacquette
+- Reflections on Kurt Godel by Wang
 
 ## Education
 **University of Connecticut, May 2025**
