@@ -57,7 +57,7 @@ B.S. Economics, minor in Philosophy
 - Probability Theory
 - Differential Equations 
 
-## Data Science Projects
+## Quantitative Research/Data Science Projects
 
 #### [Retrieval-Augmented Generation System](https://github.com/RinoCattabiani/Retrieval-Augmented-Generation-RAG-for-Philosophy-of-Mathematics-literature)
 
@@ -75,13 +75,11 @@ This project is part of my broader effort to apply data science across a diverse
 
 **Keywords:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python.
 
-#### [Data Visualization with Plotnine](https://github.com/jcmazzola/Visualization_with_Plotnine.git)
+#### [Tennis Serve Direction Prediction](https://github.com/RinoCattabiani/Tennis-Serve-Direction-Prediction)
 
-This class note contribution focuses on Plotnine, a Python library for creating visually appealing and effective visualizations. It includes examples and explanations of the various ways to customize visualizations, making them both user-friendly and informative. These resources are designed to help students develop skills they can apply in their careers, whether in corporate settings or academia.
+Built a machine learning classification model to predict tennis serve direction using Match Charting Project data, engineering 25+ features including player statistics, match context, and historical tendencies. Implemented and compared multiple algorithms (XGBoost, Random Forest, Logistic Regression) to identify patterns in professional players' serving strategies. The project demonstrated practical applications of feature engineering and ensemble methods in sports analytics.
 
-These notes were presented to the Dr. Jun Yan's Fall 2024 Introduction to Data Science class.
-
-**Keywords:** Plotnine, python, lesson contribution, grammar of graphics, visualization, readability, facet plots, scatterplot, bar chart, histogram, line chart, regression line, customization.
+**Keywords:** classification, feature engineering, predictive modeling, pattern recognition, sports analytics, behavior modeling
    
 #### [NASDAQ Composite Index Prediction](https://github.com/jcmazzola/NASDAQ_Prediction.git)
 
