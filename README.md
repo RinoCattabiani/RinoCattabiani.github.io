@@ -1,4 +1,4 @@
-# Economics and Statistical Data Science Student
+# Quantitative Economics and Econometrics Graduate
 
 ## [Resume](assets/Rino_Cattabiani_Resume.pdf) | [Email](mailto:rino.cattabiani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rcattabiani/)
 
@@ -15,11 +15,15 @@ During the semester, I work as a Peer Advisor and Tutor for UConn’s Department
 In Summer 2024, I worked as an Underwriting and Analytics Intern at The Cigna Group, where I collaborated with the Pharmacy Underwriting team within Evernorth Health Services. Over the course of 10 weeks, I gained valuable experience in understanding the role of Pharmacy Benefit Managers (PBMs) and how they navigate complex healthcare challenges. This internship provided me with meaningful projects that deepened my knowledge of PBMs and their impact on the healthcare system.
 
 ## Education
-B.S. Economics and Statistical Data Science 
+**University of Connecticut, May 2025**
+M.S. Quantitative Economics and Econometrics 
 
-University of Connecticut, May 2025
+**St. John's University, May 2023**
+M.S. Risk Management
 
-GPA: 3.77/4.0
+**St. John's University, May 2022**
+B.S. Economics, minor in Philosophy
+
 
 #### Related Coursework: 
 - Convex Optimization and Machine Learning
