@@ -2,7 +2,9 @@
 
 ## [Resume](assets/Rino_Cattabiani_Resume.pdf) | [Email](mailto:rino.cattabiani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rcattabiani/)
 
-#### Technical Skills: Python, R, Stata, Git/Github, VS Code, Excel, Word, Outlook, Minitab, Adobe InDesign, Google Workspace
+#### **Languages:** Python, R, STATA, MATLAB
+#### **Tools/Technologies:** Git/GitHub, LaTeX, SQL, Microsoft Suite 
+#### **Quantitative Methods:** Linear/Logistic Regression, Tree-based models, k-Nearest Neighbors, Neural Networks, Dimensionality Reduction 
 
 ## About Me
 
