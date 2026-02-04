@@ -16,12 +16,15 @@ In Summer 2024, I worked as an Underwriting and Analytics Intern at The Cigna Gr
 
 ## Education
 **University of Connecticut, May 2025**
+
 M.S. Quantitative Economics and Econometrics 
 
 **St. John's University, May 2023**
+
 M.S. Risk Management
 
 **St. John's University, May 2022**
+
 B.S. Economics, minor in Philosophy
 
 
