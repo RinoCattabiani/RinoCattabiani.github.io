@@ -63,27 +63,18 @@ B.S. Economics, minor in Philosophy
 
 Developed a Retrieval-Augmented Generation system to analyze philosophical texts, comparing the effectiveness of various chunking strategies (fixed-size, sentence-based, semantic) and embedding models in retrieving relevant content. Implemented and evaluated multiple retrieval approaches to optimize context accuracy for complex philosophical queries. The project demonstrated how document preprocessing and embedding choices significantly impact RAG system performance in specialized academic domains.
 
-**Keywords:** natural language processing, embedding models, chunking strategies, vector databases, information retrieval, similarity search
+**Keywords:** natural language processing, embedding models, chunking strategies, vector databases, information retrieval, similarity search, python
 
-#### [Field Hockey APC Analysis](https://github.com/jcmazzola/Field_Hockey_APC_analysis.git)
+#### [Energy Demand Forecasting with Weather Data](https://github.com/RinoCattabiani/Forecasting-Daily-Energy-Production-from-Previous-Weather-Patterns)
 
-University of Connecticut– Sports Statistical Learning Internship
+Developed neural network models to predict energy demand by integrating weather variables and temporal patterns, implementing LSTM and GRU architectures to capture sequential dependencies in time-series data. Analyzed the relationship between meteorological conditions (temperature, humidity, wind speed) and electricity consumption patterns to improve forecast accuracy. The project showcased deep learning applications in energy systems and the importance of feature selection in time-series prediction.
 
-In the Fall 2024 semester, I had the opportunity to collaborate with UConn's Field Hockey team through the UConn Sports Statistical Learning Internship. This experience allowed me to investigate various factors influencing the success of attacking penalty corners. My aim was to provide actionable insights that could help enhance team strategies and improve performance outcomes.
-
-This project is part of my broader effort to apply data science across a diverse range of fields, contributing valuable analysis to real-world challenges.
-
-**Keywords:** Sports analysis, scoring rate, Extreme Gradiant Boosting, feature importance, opponent analysis, classification, Plotnine, python.
+**Keywords:** time series, neural networks, deep learning, feature selection, energy analytics, multivariate forecasting, python
 
 #### [Tennis Serve Direction Prediction](https://github.com/RinoCattabiani/Tennis-Serve-Direction-Prediction)
 
 Built a machine learning classification model to predict tennis serve direction using Match Charting Project data, engineering 25+ features including player statistics, match context, and historical tendencies. Implemented and compared multiple algorithms (XGBoost, Random Forest, Logistic Regression) to identify patterns in professional players' serving strategies. The project demonstrated practical applications of feature engineering and ensemble methods in sports analytics.
 
-**Keywords:** classification, feature engineering, predictive modeling, pattern recognition, sports analytics, behavior modeling
+**Keywords:** classification, feature engineering, predictive modeling, pattern recognition, sports analytics, behavior modeling, R
+
    
-#### [NASDAQ Composite Index Prediction](https://github.com/jcmazzola/NASDAQ_Prediction.git)
-
-This project applies statistical learning techniques to predict the NASDAQ Composite Index, combining my interests in Economics and Data Science. Using historical stock data from January 4, 2010, to October 25, 2024, the analysis identifies key predictors of stock price movements, examines the impact of seasonality, and evaluates the effectiveness of machine learning models for time-series forecasting.
-
-**Keywords:** Moving Average, Extreme Gradient Boosting (XGBoost), Python, Plotnine, feature importance analysis, time-series forecasting, feature engineering, financial analysis
-
